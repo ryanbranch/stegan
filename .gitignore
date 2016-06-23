@@ -87,3 +87,12 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# PyCharm
+.idea
+
+#Files for testing I/O and other functionality
+input.png
+output.png
+input.txt
+output.txt
